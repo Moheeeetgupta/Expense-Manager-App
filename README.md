@@ -8,7 +8,7 @@
 * Xml
 * Sqlite
 * Multithreading
-* sql
+* Sql
 
 ---
 ## Features
