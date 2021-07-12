@@ -1,6 +1,6 @@
 # Expense Manager App
 ---
-### An CRUD based android application which helps you manage your day-to-day expenses
+### A CRUD based android application which helps you manage your day-to-day expenses
 ---
 ## Using Tech:
 
